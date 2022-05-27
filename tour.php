@@ -15,9 +15,9 @@
           	  <div class="nav-links" id="navLinks"> 
                 <i class="fa fa-times" onclick="hideMenu()"></i>
                    <ul>
-                      <li><a href="index.php">HOME</a></li>
-                      <li><a href="location.php">LOCATION</a></li>
-                      <li><a href="tour.php"> View-Poctoy-Beach</a></li>
+                      <li><a href="index.php">Hompage</a></li>
+                      <li><a href="location.php">tour-location</a></li>
+                      <li><a href="tour.php"> About Poctoy</a></li>
                    </ul>
               </div>
               <i class="fa fa-bars" onclick="showMenu()"></i>
