@@ -25,31 +25,27 @@
           
           
     <div class="sub-text">
-        <h1> "The Poctoy White Beach Gives Calmness to your Eyes and Body" </h1>
-
-        <?php
+        <h1> The Poctoy White Beach </h1>
               <br>
-              <p>An ocean breeze puts a mind at ease.</p>
+              <p>Poctoy White Beach might be outshined by its more popular neighbor, Maniwaya Island in Sta. Cruz, an hour travel away. But, in Poctoy, you can have a better place for relaxation and sanctuary. We went here last, December 2, 2017 (Saturday) and we were surprised it’s not crowded though it was during late in the morning, there were number of visitors coming. What we really liked about Poctoy Beach is that you no longer need to rent a boat(which usually ranges from P2000.00 and above) unlike the other beaches in Marinduque. It is perfect for people travelling in small groups, or for couples with tight budget.</p>
               <br>
-             <a><img src="Images/poctoy1.jpg"></a>
+             <a><img src="Images/View1.jpg"></a>
               <br>
-              <p>We dream in colors borrowed from the sea.</p>
+              <p>The water is clear and refreshing. If you prefer some water activities, they have kayaking and boating.</p>
               <br>
-               <a><img src="Images/poctoy2.jpg"></a>
+               <a><img src="Images/view2.webp"></a>
                 <br>
-              <p>Happiness is a day at the beach.</p>
+              <p>Poctoy White Beach is a must see when you visit my hometown – Torrijos, Marinduque. Its approximately 1 kilometer stretch of white-sand beach offers visitors a unique beach experience. One of the "heart of the Philippines’" gems, this public beach is colloquial to perfect summer get-away!</p>
               <br>
-               <a><img src="Images/poctoy3.jpg"></a>
+               <a><img src="Images/view3.jpg"></a>
                 <br>
-              <p>Leave footprints of love and kindness wherever you go.</p>
+              <p>Poctoy White Beach is a public beach. You have to pay the P25 entrance fee. Renting of cottage costs P200 only. Camping is allowed. </p>
               <br>
-               <a><img src="Images/poctoy4.jpg"></a>
+               <a><img src="Images/view4.jpg"></a>
                 <br>
-              <p>Wherever you go, bring your own sunshine.</p>
+              <p>Poctoy White Beach is considered as the most famous beach in the mainland of Marinduque facing Sibuyan Sea. The beach features over a kilometer long stretch of pure white sand, alluring deep turquoise waters, interesting seaside rock formations, lush of green vegetation, beautiful view of Mount Malindig and looming mountains as backdrop. Visitors may enjoy swimming, snorkeling, diving and wind surfing. </p>
               <br>
-               <a><img src="Images/poctoy5.jpg"></a>
-        ?>
-        
+               <a><img src="Images/view5.jpg"></a>
      </div>
 
 </section>
@@ -57,9 +53,10 @@
      
      
         
+
 <section class="hometext">
     <h1> White Beach Contact </h1><br>
-    <h3>Phone Number: 09560955947</h3>
+    <h3>Gmail: whitebeach.mrd@gmail.com</h3>
    
     <div class="icons">
          <i class="fa fa-facebook"></i>
@@ -71,11 +68,11 @@
     <section class="row">
         <div class="hometext-col">
               <h3> Social Media Contact </h3>
-            <p>Facebook: Poctoy White Beach torrijos</p>
+            <p>Facebook: Poctoy White Beach torrijosMRD</p>
             
-            <p>Twitter: @PoctoyWhiteBeachTorrijos</p>
+            <p>Twitter: @PoctoyWhiteBeachTorrijosMRD</p>
         
-            <p>Linked: PoctoyWhiteBeachTorrijos</p>
+            <p>Linked: PoctoyWhiteBeachTorrijosMRD</p>
             
         </div>
     

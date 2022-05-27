@@ -46,24 +46,23 @@
           
 <section class="hometext">
     <h1> White Beach Contact </h1><br>
-    <h3>Phone Number: 09560955947</h3>
+    <h3>Gmail: whitebeach.mrd@gmail.com</h3>
    
     <div class="icons">
          <i class="fa fa-facebook"></i>
          <i class="fa fa-twitter"></i>
         <i class="fa fa-linkedin"></i>
     </div>
-       </section>
-       
-   
+      </section>
+    
     <section class="row">
         <div class="hometext-col">
               <h3> Social Media Contact </h3>
-            <p>Facebook: Poctoy White Beach torrijos</p>
+            <p>Facebook: Poctoy White Beach torrijosMRD</p>
             
-            <p>Twitter: @PoctoyWhiteBeachTorrijos</p>
+            <p>Twitter: @PoctoyWhiteBeachTorrijosMRD</p>
         
-            <p>Linked: PoctoyWhiteBeachTorrijos</p>
+            <p>Linked: PoctoyWhiteBeachTorrijosMRD</p>
             
         </div>
     

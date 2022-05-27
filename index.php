@@ -24,17 +24,17 @@
           </nav>
 
   <div class="text-box">
-      <h1>Poctoy White Beach</h1>
-      <p>Dance with the waves, move with the sea, let the rhythm of the water set your soul free.</p>
+      <h1>Poctoy White Beach Torrijos Marinduque</h1>
+      <p>Poctoy White Beach is one of the popular beaches in the Philippines, located in the coastal town of Torrijos in Marinduque. The beach features a kilometer stretch of fine white sand and pristine blue water that is perfect for swimming and snorkeling. The place also gives a scenic view of Mount Malindig, the highest point in the province that is very famous among beginner mountain climbers. Poctoy White Beach commonly reaches its peak during the Holy Week season because the province of Marinduque is known for its Moriones Festival, one of the oldest and most religious festivals in the country, which happens during this week.</p>
       <br>
-      <a href="tour.html" class="hero-btn">Visit Us To know More</a>
+      <a href="tour.php" class="hero-btn"> View more</a>
 </div>
    </section>
      
 <!----- text below home page ----->
 <section class="hometext">
     <h1> White Beach Contact </h1><br>
-    <h3>Phone Number: 09560955947</h3>
+    <h3>Gmail: whitebeach.mrd@gmail.com</h3>
    
     <div class="icons">
          <i class="fa fa-facebook"></i>
@@ -46,11 +46,11 @@
     <section class="row">
         <div class="hometext-col">
               <h3> Social Media Contact </h3>
-            <p>Facebook: Poctoy White Beach torrijos</p>
+            <p>Facebook: Poctoy White Beach torrijosMRD</p>
             
-            <p>Twitter: @PoctoyWhiteBeachTorrijos</p>
+            <p>Twitter: @PoctoyWhiteBeachTorrijosMRD</p>
         
-            <p>Linked: PoctoyWhiteBeachTorrijos</p>
+            <p>Linked: PoctoyWhiteBeachTorrijosMRD</p>
             
         </div>
     
