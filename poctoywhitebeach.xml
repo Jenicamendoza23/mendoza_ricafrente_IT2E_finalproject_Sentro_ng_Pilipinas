@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+<!DOCTYPE Imahe-Poctoy[
+
+	<!ELEMENT Imahe-Poctoy (Hompage, tour-location, about-Poctoy, social-media-contact)>
+	<!ELEMENT Hompage (view-more)>
+	<!ELEMENT tour-location (figure1, figure2)>
+	<!ELEMENT about-Poctoy (picture1, picture2, picture3, picture4, picture5)>
+	<!ELEMENT social-media-contact (gmail, facebook, twitter, linked)>
+
+ 
+
+	<!ELEMENT Hompage (#PCDATA)>
+	<!ELEMENT tour-location (#PCDATA)>
+	<!ELEMENT about-Poctoy (#PCDATA)>
+	<!ELEMENT view-more (#PCDATA)>
+	<!ELEMENT figure1 (#PCDATA)>
+	<!ELEMENT figure2 (#PCDATA)>
+	<!ELEMENT picture1 (#PCDATA)>
+	<!ELEMENT picture2 (#PCDATA)>
+	<!ELEMENT picture3 (#PCDATA)>
+	<!ELEMENT picture4 (#PCDATA)>
+	<!ELEMENT picture5 (#PCDATA)>
+	<!ELEMENT social-media-contact (#PCDATA)>
+	<!ELEMENT gmail (#PCDATA)>
+	<!ELEMENT facebook (#PCDATA)>
+	<!ELEMENT twitter (#PCDATA)>
+	<!ELEMENT linked (#PCDATA)>
+
+
+]>
+
+<Imahe-Poctoy>
+	<Hompage>
+
+		<view-more>
+
+			<view-more>about-Poctoy</view-more>
+
+        </view-more>
+
+			<tour-location>figure1</tour-location>
+			<tour-location>figure2</tour-location>
+
+        <about-Poctoy>
+
+			<about-Poctoy>picture1</about-Poctoy>
+			<about-Poctoy>picture2</about-Poctoy>
+            <about-Poctoy>picture3</about-Poctoy>
+            <about-Poctoy>picture4</about-Poctoy>
+            <about-Poctoy>picture5</about-Poctoy>
+
+        </about-Poctoy>
+
+	</Hompage>
+
+    <social-media-contact>
+
+	<social-media-contact>gmail</social-media-contact>
+	<social-media-contact>facebook</social-media-contact>
+	<social-media-contact>twitter</social-media-contact>
+	<social-media-contact>linked</social-media-contact>
+
+    </social-media-contact>
+
+</Imahe-Poctoy>
